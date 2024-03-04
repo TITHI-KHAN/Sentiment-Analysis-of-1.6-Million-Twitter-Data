@@ -23,3 +23,13 @@ It contains the following 6 fields:
 **user**: the user that tweeted (robotickilldozr)
 
 **text**: the text of the tweet (Lyx is cool)
+
+## Applied Models
+
+**Logistic Regression**
+
+**Random Forest**
+
+**Gradient Boosting**
+
+**SVM**
