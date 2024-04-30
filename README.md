@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Twitter-Data
+# Sentiment Analysis of 1.6 Million Twitter Data
 
 ## About Dataset 
 
